@@ -1,0 +1,18 @@
+Throughput:
+jumlah paket yang dikumpulkan / waktu pengiriman
+13595/6,738 = 2,01766 dalam bytes/s
+1 bytes = 8 bit
+2,01766 x 8= 16k bits/s
+
+packet loss : 0 / tidak ada packet loss
+
+delay : time 2 - time 1 =
+total delay = 6,738121 s
+rata-rata delay= total delay/ jumlah packet-1
+               = 6,738121/89 = 0,075709 s
+			   
+jitter = delay 2 - delay 1=
+total jitter = 6,834943
+rata-rata jitter = 0,076797			   
+
+
